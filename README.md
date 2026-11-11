@@ -1,6 +1,6 @@
 # Brawl Lines 개인정보처리방침 / Privacy Policy
 
-[한국어](#한국어) · [English](#english)
+[한국어](#한국어) · [English](#english) · [지원 / Support](support/)
 
 ---
 
